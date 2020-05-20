@@ -89,7 +89,7 @@ export default function Projects() {
                   <img alt="Darryl Working" src={eve}></img>
                 </div>
 
-                <div className="saaya-health-div" onClick={() => openProjectInNewWindow("https://nameless-brushlands-36117.herokuapp.com/")}>
+                <div className="saaya-health-div" onClick={() => openProjectInNewWindow("https://github.com/darrylferdinands/HomeAway-Prototype")}>
                   <img alt="Darryl Working" src={homeaway}></img>
                 </div>
 
