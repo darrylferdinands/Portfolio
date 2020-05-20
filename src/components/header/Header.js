@@ -27,9 +27,9 @@ function Header() {
           <li>
             <a href="#opensource">Open Source Projects</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#blogs">Blogs</a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact">Contact Me</a>
           </li>
