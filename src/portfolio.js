@@ -10,7 +10,7 @@ const greeting = {
   username: "Darryl Ferdinands",
   title: "Hey, I'm Darryl",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of designing and developing Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."),
-  resumeLink: "https://www.keepandshare.com/doc4/114741/darryl-ferdinands-pdf-164k?da=y"
+  resumeLink: "http://www.keepandshare.com/doc4/view.php?id=114780&da=y"
 };
 
 // Your Social Media Link
